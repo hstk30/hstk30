@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hstk30
-- 👀 I’m interested in Python, Deep Learning, Linux..
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m interested in Python, Compiler, OS,Deep Learning, ..
+- 🌱 I’m currently work about Deep Learning, and learning Compiler, OS deeply.
 - 📫 Mail: hstk30@icloud.com
 
 <!---
