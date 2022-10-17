@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hstk30
 - 👀 I’m interested in Python, Compiler, OS,Deep Learning, ..
 - 🌱 I’m currently work about Deep Learning, and learning Compiler, OS deeply.
-- 📫 Mail: hstk30@icloud.com
+- 📫 Mail: hstk30@gmail.com
 
 <!---
 hstk30/hstk30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
