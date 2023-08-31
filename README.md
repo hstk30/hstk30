@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hstk30
 - 👀 I’m interested in Python, C, VIM, Compiler, OS, Deep Learning...
-- 🌱 I’m currently work about Deep Learning、NLP..., and learning Compiler, OS.
+- 🌱 I’m currently work about Compiler, LLVM.
 - 📫 Mail: hstk30@gmail.com
 
 
